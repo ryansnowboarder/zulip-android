@@ -117,6 +117,10 @@ eligible for export under the License Exception ENC Technology
 Software Unrestricted (TSU) exception (see the BIS Export
 Administration Regulations, Section 740.13) for both object code and
 source code.
+=======
+This is a Gradle project, and can be built via the provided `gradlew` or by
+using Android Studio. Currently, we're using Gradle 1.5 for building, so it
+probably won't build if you're using a different version of Gradle. 
 
 License
 -------
